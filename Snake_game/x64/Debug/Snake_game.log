@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\USER\Documents\2D_game\Snake_game\Snake_game\Source.cpp(75,96): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\USER\Documents\2D_game\Snake_game\Snake_game\Source.cpp(75,96): warning C4244:         with
+C:\Users\USER\Documents\2D_game\Snake_game\Snake_game\Source.cpp(75,96): warning C4244:         [
+C:\Users\USER\Documents\2D_game\Snake_game\Snake_game\Source.cpp(75,96): warning C4244:             T=float
+C:\Users\USER\Documents\2D_game\Snake_game\Snake_game\Source.cpp(75,96): warning C4244:         ]
+C:\Users\USER\Documents\2D_game\Snake_game\Snake_game\Source.cpp(75,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\USER\Documents\2D_game\Snake_game\Snake_game\Source.cpp(75,75): warning C4244:         with
+C:\Users\USER\Documents\2D_game\Snake_game\Snake_game\Source.cpp(75,75): warning C4244:         [
+C:\Users\USER\Documents\2D_game\Snake_game\Snake_game\Source.cpp(75,75): warning C4244:             T=float
+C:\Users\USER\Documents\2D_game\Snake_game\Snake_game\Source.cpp(75,75): warning C4244:         ]
+C:\Users\USER\Documents\2D_game\Snake_game\Snake_game\Source.cpp(224,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Documents\2D_game\Snake_game\Snake_game\Source.cpp(224,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Snake_game.vcxproj -> C:\Users\USER\Documents\2D_game\Snake_game\x64\Debug\Snake_game.exe
